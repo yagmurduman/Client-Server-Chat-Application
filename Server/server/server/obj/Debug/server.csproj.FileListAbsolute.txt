@@ -1,0 +1,90 @@
+c:\users\cs408-lab\documents\visual studio 2015\Projects\server\server\bin\Debug\server.exe.config
+C:\Users\cs408-lab\Documents\Visual Studio 2015\Projects\server\server\bin\Debug\server.exe
+C:\Users\cs408-lab\Documents\Visual Studio 2015\Projects\server\server\bin\Debug\server.pdb
+C:\Users\cs408-lab\Documents\Visual Studio 2015\Projects\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\cs408-lab\Documents\Visual Studio 2015\Projects\server\server\obj\Debug\server.Form1.resources
+C:\Users\cs408-lab\Documents\Visual Studio 2015\Projects\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\cs408-lab\Documents\Visual Studio 2015\Projects\server\server\obj\Debug\server.csproj.GenerateResource.Cache
+C:\Users\cs408-lab\Documents\Visual Studio 2015\Projects\server\server\obj\Debug\server.exe
+C:\Users\cs408-lab\Documents\Visual Studio 2015\Projects\server\server\obj\Debug\server.pdb
+C:\Users\MSI\Desktop\socket_programming_examples (1)\socket_programming_examples\server\server\bin\Debug\server.exe.config
+C:\Users\MSI\Desktop\socket_programming_examples (1)\socket_programming_examples\server\server\obj\Debug\server.exe
+C:\Users\MSI\Desktop\socket_programming_examples (1)\socket_programming_examples\server\server\obj\Debug\server.pdb
+C:\Users\MSI\Desktop\socket_programming_examples (1)\socket_programming_examples\server\server\bin\Debug\server.exe
+C:\Users\MSI\Desktop\socket_programming_examples (1)\socket_programming_examples\server\server\bin\Debug\server.pdb
+C:\Users\MSI\Desktop\socket_programming_examples (1)\socket_programming_examples\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\MSI\Desktop\socket_programming_examples (1)\socket_programming_examples\server\server\obj\Debug\server.Form1.resources
+C:\Users\MSI\Desktop\socket_programming_examples (1)\socket_programming_examples\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\MSI\Desktop\socket_programming_examples (1)\socket_programming_examples\server\server\obj\Debug\server.csproj.GenerateResource.Cache
+C:\Users\MSI\Desktop\yigithanbilge_Bilge_Yigithan_Step1\Server\server\server\bin\Debug\server.exe.config
+C:\Users\MSI\Desktop\yigithanbilge_Bilge_Yigithan_Step1\Server\server\server\obj\Debug\server.exe
+C:\Users\MSI\Desktop\yigithanbilge_Bilge_Yigithan_Step1\Server\server\server\obj\Debug\server.pdb
+C:\Users\MSI\Desktop\yigithanbilge_Bilge_Yigithan_Step1\Server\server\server\bin\Debug\server.exe
+C:\Users\MSI\Desktop\yigithanbilge_Bilge_Yigithan_Step1\Server\server\server\bin\Debug\server.pdb
+C:\Users\MSI\Desktop\yigithanbilge_Bilge_Yigithan_Step1\Server\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\MSI\Desktop\yigithanbilge_Bilge_Yigithan_Step1\Server\server\server\obj\Debug\server.Form1.resources
+C:\Users\MSI\Desktop\yigithanbilge_Bilge_Yigithan_Step1\Server\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\MSI\Desktop\yigithanbilge_Bilge_Yigithan_Step1\Server\server\server\obj\Debug\server.csproj.GenerateResource.Cache
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yigithanbilge_Bilge_Yigithan_Step1\Server\server\server\bin\Debug\server.exe.config
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yigithanbilge_Bilge_Yigithan_Step1\Server\server\server\obj\Debug\server.exe
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yigithanbilge_Bilge_Yigithan_Step1\Server\server\server\obj\Debug\server.pdb
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yigithanbilge_Bilge_Yigithan_Step1\Server\server\server\bin\Debug\server.exe
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yigithanbilge_Bilge_Yigithan_Step1\Server\server\server\bin\Debug\server.pdb
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yigithanbilge_Bilge_Yigithan_Step1\Server\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yigithanbilge_Bilge_Yigithan_Step1\Server\server\server\obj\Debug\server.Form1.resources
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yigithanbilge_Bilge_Yigithan_Step1\Server\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yigithanbilge_Bilge_Yigithan_Step1\Server\server\server\obj\Debug\server.csproj.GenerateResource.Cache
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yigithanbilge_Bilge_Yigithan_Step2\Server\server\server\bin\Debug\server.exe.config
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yigithanbilge_Bilge_Yigithan_Step2\Server\server\server\obj\Debug\server.exe
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yigithanbilge_Bilge_Yigithan_Step2\Server\server\server\obj\Debug\server.pdb
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yigithanbilge_Bilge_Yigithan_Step2\Server\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yigithanbilge_Bilge_Yigithan_Step2\Server\server\server\obj\Debug\server.Form1.resources
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yigithanbilge_Bilge_Yigithan_Step2\Server\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yigithanbilge_Bilge_Yigithan_Step2\Server\server\server\obj\Debug\server.csproj.GenerateResource.Cache
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yigithanbilge_Bilge_Yigithan_Step2\Server\server\server\bin\Debug\server.exe
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yigithanbilge_Bilge_Yigithan_Step2\Server\server\server\bin\Debug\server.pdb
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yagmurduman_Duman_Yagmur_Step2\Server\server\server\bin\Debug\server.exe.config
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yagmurduman_Duman_Yagmur_Step2\Server\server\server\obj\Debug\server.exe
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yagmurduman_Duman_Yagmur_Step2\Server\server\server\obj\Debug\server.pdb
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yagmurduman_Duman_Yagmur_Step2\Server\server\server\bin\Debug\server.exe
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yagmurduman_Duman_Yagmur_Step2\Server\server\server\bin\Debug\server.pdb
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yagmurduman_Duman_Yagmur_Step2\Server\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yagmurduman_Duman_Yagmur_Step2\Server\server\server\obj\Debug\server.Form1.resources
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yagmurduman_Duman_Yagmur_Step2\Server\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yagmurduman_Duman_Yagmur_Step2\Server\server\server\obj\Debug\server.csproj.GenerateResource.Cache
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\cs408_Son\Server\server\server\bin\Debug\server.exe.config
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\cs408_Son\Server\server\server\obj\Debug\server.exe
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\cs408_Son\Server\server\server\obj\Debug\server.pdb
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\cs408_Son\Server\server\server\bin\Debug\server.exe
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\cs408_Son\Server\server\server\bin\Debug\server.pdb
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\cs408_Son\Server\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\cs408_Son\Server\server\server\obj\Debug\server.Form1.resources
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\cs408_Son\Server\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\cs408_Son\Server\server\server\obj\Debug\server.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\cs408_Son\Server\server\server\bin\Debug\server.exe.config
+C:\Users\Lenovo\Desktop\cs408_Son\Server\server\server\obj\Debug\server.exe
+C:\Users\Lenovo\Desktop\cs408_Son\Server\server\server\obj\Debug\server.pdb
+C:\Users\Lenovo\Desktop\cs408_Son\Server\server\server\bin\Debug\server.exe
+C:\Users\Lenovo\Desktop\cs408_Son\Server\server\server\bin\Debug\server.pdb
+C:\Users\Lenovo\Desktop\cs408_Son\Server\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\cs408_Son\Server\server\server\obj\Debug\server.Form1.resources
+C:\Users\Lenovo\Desktop\cs408_Son\Server\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\cs408_Son\Server\server\server\obj\Debug\server.csproj.GenerateResource.Cache
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\cs408_Son2\cs408_Son\Server\server\server\bin\Debug\server.exe.config
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\cs408_Son2\cs408_Son\Server\server\server\obj\Debug\server.exe
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\cs408_Son2\cs408_Son\Server\server\server\obj\Debug\server.pdb
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\cs408_Son2\cs408_Son\Server\server\server\bin\Debug\server.exe
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\cs408_Son2\cs408_Son\Server\server\server\bin\Debug\server.pdb
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\cs408_Son2\cs408_Son\Server\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\cs408_Son2\cs408_Son\Server\server\server\obj\Debug\server.Form1.resources
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\cs408_Son2\cs408_Son\Server\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\cs408_Son2\cs408_Son\Server\server\server\obj\Debug\server.csproj.GenerateResource.Cache
+C:\Users\MSI\Desktop\yigithanbilge_Bilge_Yigithan_Step3\Server\server\server\bin\Debug\server.exe.config
+C:\Users\MSI\Desktop\yigithanbilge_Bilge_Yigithan_Step3\Server\server\server\obj\Debug\server.exe
+C:\Users\MSI\Desktop\yigithanbilge_Bilge_Yigithan_Step3\Server\server\server\obj\Debug\server.pdb
+C:\Users\MSI\Desktop\yigithanbilge_Bilge_Yigithan_Step3\Server\server\server\bin\Debug\server.exe
+C:\Users\MSI\Desktop\yigithanbilge_Bilge_Yigithan_Step3\Server\server\server\bin\Debug\server.pdb
+C:\Users\MSI\Desktop\yigithanbilge_Bilge_Yigithan_Step3\Server\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\MSI\Desktop\yigithanbilge_Bilge_Yigithan_Step3\Server\server\server\obj\Debug\server.Form1.resources
+C:\Users\MSI\Desktop\yigithanbilge_Bilge_Yigithan_Step3\Server\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\MSI\Desktop\yigithanbilge_Bilge_Yigithan_Step3\Server\server\server\obj\Debug\server.csproj.GenerateResource.Cache

@@ -1,0 +1,90 @@
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\bin\Debug\client.exe.config
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.Form1.resources
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.Properties.Resources.resources
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\bin\Debug\client.exe
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\bin\Debug\client.pdb
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.exe
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.pdb
+C:\Users\MSI\Desktop\socket_programming_examples (1)\socket_programming_examples\client\client\bin\Debug\client.exe.config
+C:\Users\MSI\Desktop\socket_programming_examples (1)\socket_programming_examples\client\client\bin\Debug\client.exe
+C:\Users\MSI\Desktop\socket_programming_examples (1)\socket_programming_examples\client\client\bin\Debug\client.pdb
+C:\Users\MSI\Desktop\socket_programming_examples (1)\socket_programming_examples\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\MSI\Desktop\socket_programming_examples (1)\socket_programming_examples\client\client\obj\Debug\client.Form1.resources
+C:\Users\MSI\Desktop\socket_programming_examples (1)\socket_programming_examples\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\MSI\Desktop\socket_programming_examples (1)\socket_programming_examples\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\MSI\Desktop\socket_programming_examples (1)\socket_programming_examples\client\client\obj\Debug\client.exe
+C:\Users\MSI\Desktop\socket_programming_examples (1)\socket_programming_examples\client\client\obj\Debug\client.pdb
+C:\Users\MSI\Desktop\yigithanbilge_Bilge_Yigithan_Step1\Client\client\client\bin\Debug\client.exe.config
+C:\Users\MSI\Desktop\yigithanbilge_Bilge_Yigithan_Step1\Client\client\client\obj\Debug\client.exe
+C:\Users\MSI\Desktop\yigithanbilge_Bilge_Yigithan_Step1\Client\client\client\obj\Debug\client.pdb
+C:\Users\MSI\Desktop\yigithanbilge_Bilge_Yigithan_Step1\Client\client\client\bin\Debug\client.exe
+C:\Users\MSI\Desktop\yigithanbilge_Bilge_Yigithan_Step1\Client\client\client\bin\Debug\client.pdb
+C:\Users\MSI\Desktop\yigithanbilge_Bilge_Yigithan_Step1\Client\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\MSI\Desktop\yigithanbilge_Bilge_Yigithan_Step1\Client\client\client\obj\Debug\client.Form1.resources
+C:\Users\MSI\Desktop\yigithanbilge_Bilge_Yigithan_Step1\Client\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\MSI\Desktop\yigithanbilge_Bilge_Yigithan_Step1\Client\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yigithanbilge_Bilge_Yigithan_Step1\Client\client\client\bin\Debug\client.exe.config
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yigithanbilge_Bilge_Yigithan_Step1\Client\client\client\obj\Debug\client.exe
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yigithanbilge_Bilge_Yigithan_Step1\Client\client\client\obj\Debug\client.pdb
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yigithanbilge_Bilge_Yigithan_Step1\Client\client\client\bin\Debug\client.exe
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yigithanbilge_Bilge_Yigithan_Step1\Client\client\client\bin\Debug\client.pdb
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yigithanbilge_Bilge_Yigithan_Step1\Client\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yigithanbilge_Bilge_Yigithan_Step1\Client\client\client\obj\Debug\client.Form1.resources
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yigithanbilge_Bilge_Yigithan_Step1\Client\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yigithanbilge_Bilge_Yigithan_Step1\Client\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yigithanbilge_Bilge_Yigithan_Step2\Client\client\client\bin\Debug\client.exe.config
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yigithanbilge_Bilge_Yigithan_Step2\Client\client\client\obj\Debug\client.exe
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yigithanbilge_Bilge_Yigithan_Step2\Client\client\client\obj\Debug\client.pdb
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yigithanbilge_Bilge_Yigithan_Step2\Client\client\client\bin\Debug\client.exe
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yigithanbilge_Bilge_Yigithan_Step2\Client\client\client\bin\Debug\client.pdb
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yigithanbilge_Bilge_Yigithan_Step2\Client\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yigithanbilge_Bilge_Yigithan_Step2\Client\client\client\obj\Debug\client.Form1.resources
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yigithanbilge_Bilge_Yigithan_Step2\Client\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yigithanbilge_Bilge_Yigithan_Step2\Client\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yagmurduman_Duman_Yagmur_Step2\Client\client\client\bin\Debug\client.exe.config
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yagmurduman_Duman_Yagmur_Step2\Client\client\client\obj\Debug\client.exe
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yagmurduman_Duman_Yagmur_Step2\Client\client\client\obj\Debug\client.pdb
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yagmurduman_Duman_Yagmur_Step2\Client\client\client\bin\Debug\client.exe
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yagmurduman_Duman_Yagmur_Step2\Client\client\client\bin\Debug\client.pdb
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yagmurduman_Duman_Yagmur_Step2\Client\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yagmurduman_Duman_Yagmur_Step2\Client\client\client\obj\Debug\client.Form1.resources
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yagmurduman_Duman_Yagmur_Step2\Client\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\yagmurduman_Duman_Yagmur_Step2\Client\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\cs408_Son\Client\client\client\bin\Debug\client.exe.config
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\cs408_Son\Client\client\client\obj\Debug\client.exe
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\cs408_Son\Client\client\client\obj\Debug\client.pdb
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\cs408_Son\Client\client\client\bin\Debug\client.exe
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\cs408_Son\Client\client\client\bin\Debug\client.pdb
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\cs408_Son\Client\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\cs408_Son\Client\client\client\obj\Debug\client.Form1.resources
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\cs408_Son\Client\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\cs408_Son\Client\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\cs408_Son\Client\client\client\bin\Debug\client.exe.config
+C:\Users\Lenovo\Desktop\cs408_Son\Client\client\client\obj\Debug\client.exe
+C:\Users\Lenovo\Desktop\cs408_Son\Client\client\client\obj\Debug\client.pdb
+C:\Users\Lenovo\Desktop\cs408_Son\Client\client\client\bin\Debug\client.exe
+C:\Users\Lenovo\Desktop\cs408_Son\Client\client\client\bin\Debug\client.pdb
+C:\Users\Lenovo\Desktop\cs408_Son\Client\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\cs408_Son\Client\client\client\obj\Debug\client.Form1.resources
+C:\Users\Lenovo\Desktop\cs408_Son\Client\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\cs408_Son\Client\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\cs408_Son2\cs408_Son\Client\client\client\bin\Debug\client.exe.config
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\cs408_Son2\cs408_Son\Client\client\client\obj\Debug\client.exe
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\cs408_Son2\cs408_Son\Client\client\client\obj\Debug\client.pdb
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\cs408_Son2\cs408_Son\Client\client\client\bin\Debug\client.exe
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\cs408_Son2\cs408_Son\Client\client\client\bin\Debug\client.pdb
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\cs408_Son2\cs408_Son\Client\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\cs408_Son2\cs408_Son\Client\client\client\obj\Debug\client.Form1.resources
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\cs408_Son2\cs408_Son\Client\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\MSI\Documents\Visual Studio 2015\Projects\cs408_Son2\cs408_Son\Client\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\MSI\Desktop\yigithanbilge_Bilge_Yigithan_Step3\Client\client\client\bin\Debug\client.exe.config
+C:\Users\MSI\Desktop\yigithanbilge_Bilge_Yigithan_Step3\Client\client\client\obj\Debug\client.exe
+C:\Users\MSI\Desktop\yigithanbilge_Bilge_Yigithan_Step3\Client\client\client\obj\Debug\client.pdb
+C:\Users\MSI\Desktop\yigithanbilge_Bilge_Yigithan_Step3\Client\client\client\bin\Debug\client.exe
+C:\Users\MSI\Desktop\yigithanbilge_Bilge_Yigithan_Step3\Client\client\client\bin\Debug\client.pdb
+C:\Users\MSI\Desktop\yigithanbilge_Bilge_Yigithan_Step3\Client\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\MSI\Desktop\yigithanbilge_Bilge_Yigithan_Step3\Client\client\client\obj\Debug\client.Form1.resources
+C:\Users\MSI\Desktop\yigithanbilge_Bilge_Yigithan_Step3\Client\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\MSI\Desktop\yigithanbilge_Bilge_Yigithan_Step3\Client\client\client\obj\Debug\client.csproj.GenerateResource.Cache
